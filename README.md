@@ -3,7 +3,7 @@
 
 
 ## Description
-he concluding section incorporates error management, data sorting, and additional features for a polished finish. Tailored exceptions offer precise error identification, and sorting and testing guarantee reliable performance.
+The concluding section incorporates error management, data sorting, and additional features for a polished finish. Tailored exceptions offer precise error identification, and sorting and testing guarantee reliable performance.
 
 ## Features
 -Error Handling: Custom exceptions like StudentNotFoundError and InvalidGradeError provide clear error messages.
